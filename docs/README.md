@@ -4,20 +4,6 @@ title: Home
 
 # Blokken Oefeningen
 
-> Programmeeroefeningen voor Blockly
+> [Blokken](https://github.com/pcordemans/blokken) is een Blockly-gebaseerde programmeer omgeving. Deze oefeningen zijn een intuïtieve introductie tot programmeerconcepten. Deze cursus wordt niet meer actief gebruikt door de auteur, maar worden vrij gedeeld met een Creative Commons licentie. Het is zeker mogelijk om van deze oefeningen gebruik te maken of zelfs aan het project [bij te dragen](https://github.com/pcordemans/blokken-oefeningen). 
 
-![Success](./assets/success.png)
 
-This is the home page of your VuePress course website.
-
-Feel free to style it as you wish.
-
-Some tips on how to start:
-
-* Refactor the `README.md` in the root of this project. It is the first page users encounter when visiting your GitHub repository.
-* Fill in this `README.md` with an introduction to your course.
-* Start a development server using `npm run docs:dev`
-* Generate pages using `yo innovet-vuepress-course:page`
-* Setup your [Netlify site](https://www.netlify.com/)
-* Commit and push your changes to GitHub on a regular base
-* Navigate to your Netlify domain url and check if the site deployed successfully.
