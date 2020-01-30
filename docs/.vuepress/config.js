@@ -9,6 +9,10 @@ module.exports = {
     ],
     sidebar: [
       ['/', 'Home'],
+      ['/chapter-1/', 'Chapter 1'],
+      ['/chapter-2/', 'Chapter 2'],
+      ['/chapter-3/', 'Chapter 3'],
+      ['/chapter-4/', 'Chapter 4']
     ],
     repo: 'https://github.com/pcordemans/blokken-oefeningen',
     docsDir: 'docs',
